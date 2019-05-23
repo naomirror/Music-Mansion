@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 83e9408a40b94ad4e9a5a36481126171
+timeCreated: 1553435094
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - C: {fileID: 8300000, guid: 419195199a77c8d4d8403b5a40deb332, type: 3}
+  - Df: {fileID: 8300000, guid: 5ba4cfc7e1bbf9b46992ecf87b659103, type: 3}
+  - D: {fileID: 8300000, guid: e8d5276844a5ec645b4e6757ce514e1d, type: 3}
+  - Ef: {fileID: 8300000, guid: 35a3290b91dd9ac47ab3bd917f4def4b, type: 3}
+  - E: {fileID: 8300000, guid: 512a090ec50abc344bd76075d8b2cb38, type: 3}
+  - F: {fileID: 8300000, guid: eed5f29f200cf124896247c43f5e7465, type: 3}
+  - Gf: {instanceID: 0}
+  - G: {fileID: 8300000, guid: fa3a8359e7b879e428ec8890e8f726fc, type: 3}
+  - Af: {fileID: 8300000, guid: 0522c1fecdb86ce438109faf5167b3e2, type: 3}
+  - A: {fileID: 8300000, guid: 1638320578ebe7a4483fd818ad52dabd, type: 3}
+  - Bf: {fileID: 8300000, guid: 2d8d82d95232d0c4ba59bf455a36ef08, type: 3}
+  - B: {fileID: 8300000, guid: bad76ef322b5e834c952f26821dc619a, type: 3}
+  - Audio: {fileID: 82260234461368124, guid: 624f7916ea3331a4a85c501a0c5ab866, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
